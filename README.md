@@ -13,13 +13,13 @@
 
 ## Applications and websites
 
-| Description             | Domain                         | Source code                  |
-| ----------------------- | ------------------------------ | ---------------------------- |
-| Casino rating app       | https://shell.haqq.network     | [Open](apps/casino)          |
-| ElonCoin crypto landing | https://testedge2.haqq.network | [Open](apps/eloncoin)        |
-| GS Stellar              | https://vesting.haqq.network   | [Open](apps/goldman-sachs)   |
-| Hyperledger             | https://haqq.hetwork           | [Open](apps/hyperledger)     |
-| QTT project             | https://islamiccoin.net        | [Open](apps/qtt-project)     |
+| Description             | Domain                           | Source code                  |
+| ----------------------- | ------------------------------   | ---------------------------- |
+| Casino rating app       | outdated                         | [Open](apps/casino)          |
+| ElonCoin crypto landing | https://emc.finance              | [Open](apps/eloncoin)        |
+| GS Stellar              | outdated                         | [Open](apps/goldman-sachs)   |
+| Hyperledger             | https://hyperledger-stellar.com  | [Open](apps/hyperledger)     |
+| QTT project             | outdated                         | [Open](apps/qtt-project)     |
 
 ## Development guide
 
