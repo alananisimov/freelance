@@ -1,10 +1,10 @@
 <div align="center">
   <img src="apps/haqq-website/assets/images/logo.svg" alt="Logo" width="80" height="80">
 
-  <h2 align="center">Alananisimov Freelance Projects Monorepo</h2>
+  <h2 align="center">alananisimov Freelance Projects Monorepo</h2>
 
   <p align="center">
-    All of alananisimov's works that he done's
+    All the work that alananisimov has completed
     <br />
     ⭐ Star us on GitHub — it motivates us a lot!
     <br />
