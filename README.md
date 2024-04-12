@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="apps/haqq-website/assets/images/logo.svg" alt="Logo" width="80" height="80">
+  <img src="assets/icon.png" alt="Logo" width="80" height="80">
 
   <h2 align="center">alananisimov Freelance Projects Monorepo</h2>
 
