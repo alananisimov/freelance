@@ -1,0 +1,38 @@
+{
+  "navigation": [
+    { "name": "Казино 1", "href": "#" },
+    { "name": "Казино 2", "href": "#" },
+    { "name": "Казино 3", "href": "#" },
+    { "name": "Казино 4", "href": "#" }
+  ],
+  "list": [
+    {
+      "title": "Казино 1",
+      "rating": 4,
+      "description": "Лучшее казино для того то, того то, того то, того то, того то, того то, того то, того то, того то....",
+      "link": "#",
+      "info": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure similique deleniti rerum laudantium. Quis facilis, maxime fugiat laboriosam explicabo voluptatem hic impedit distinctio tenetur velit, sint praesentium! Nemo, neque fuga?"
+    },
+    {
+      "title": "Казино 2",
+      "rating": 2,
+      "description": "Лучшее казино для того то, того то, того то, того то, того то, того то, того то, того то, того то....",
+      "link": "#",
+      "info": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure similique deleniti rerum laudantium. Quis facilis, maxime fugiat laboriosam explicabo voluptatem hic impedit distinctio tenetur velit, sint praesentium! Nemo, neque fuga?"
+    },
+    {
+      "title": "Казино 3",
+      "rating": 5,
+      "description": "Лучшее казино для того то, того то, того то, того то, того то, того то, того то, того то, того то....",
+      "link": "#",
+      "info": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure similique deleniti rerum laudantium. Quis facilis, maxime fugiat laboriosam explicabo voluptatem hic impedit distinctio tenetur velit, sint praesentium! Nemo, neque fuga?"
+    },
+    {
+      "title": "Казино 4",
+      "rating": 1,
+      "description": "Лучшее казино для того то, того то, того то, того то, того то, того то, того то, того то, того то....",
+      "link": "#",
+      "info": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure similique deleniti rerum laudantium. Quis facilis, maxime fugiat laboriosam explicabo voluptatem hic impedit distinctio tenetur velit, sint praesentium! Nemo, neque fuga?"
+    }
+  ]
+}

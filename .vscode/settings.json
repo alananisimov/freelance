@@ -1,0 +1,5 @@
+{
+  "cSpell.words": ["clsx"],
+  "nuxt.isNuxtApp": false,
+  "i18n-ally.localesPaths": ["apps/islamic-website/messages"]
+}

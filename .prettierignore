@@ -1,0 +1,6 @@
+/dist
+/coverage
+/.yarn
+.yarnrc.yml
+.next
+/.nx/cache
